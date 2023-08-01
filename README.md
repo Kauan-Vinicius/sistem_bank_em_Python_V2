@@ -1,4 +1,4 @@
-# Desafio de projeto: Otimizando sistemma bancário com Python
+# Desafio de projeto: Otimizando sistema bancário com Python
 
 ## Objetivos gerais
 
