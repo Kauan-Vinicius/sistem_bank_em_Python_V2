@@ -2,10 +2,10 @@
 
 ## Objetivos gerais
 
-Utilizar a primeira versão do projeto com as operações de depósito, saque e visualizar extrato. E, adicionar mais algumas funções:
-- Criar usuário (cliente)
-- Criar conta corrente
-- Listar as contas que o usuário possui
+Utilizar a primeira versão do [projeto](https://github.com/Kauan-Vinicius/sistema_bank_em_Python/tree/main) com as operações de depósito, saque e visualizar extrato. E, adicionar mais algumas funções:
+- Criar usuário (cliente).
+- Criar conta corrente.
+- Listar as contas que o usuário possui.
 
   ### Operação de criar usuário:
   O programa deve armazenar os usuários em uma lista, um usuário é composto por: nome, data de nascimento, cpf e endereço.
@@ -29,5 +29,10 @@ Utilizar a primeira versão do projeto com as operações de depósito, saque e 
 
   ![Alt text](./Insucesso_conta_corrente.png "Operação de criar conta corrente falhou")
 
-  
+  ### Operação de listar contas:
+  O programa lista as informações armazenadas do usuário e quantas contas correntes o usuário possui.
+
+  #### Exemplo abaixo:
+
+  ![Alt text](./Listar_contas.png "Operação de listar contas:")
   
