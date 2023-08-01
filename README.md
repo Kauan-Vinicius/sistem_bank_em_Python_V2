@@ -30,7 +30,7 @@ Utilizar a primeira versão do [projeto](https://github.com/Kauan-Vinicius/siste
   ![Alt text](./Insucesso_conta_corrente.png "Operação de criar conta corrente falhou")
 
   ### Operação de listar contas:
-  O programa lista as informações armazenadas do usuário e quantas contas correntes o usuário possui.
+  O programa lista as informações armazenadas do usuário e informa quantas contas correntes o usuário possui.
 
   #### Exemplo abaixo:
 
